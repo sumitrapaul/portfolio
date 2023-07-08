@@ -42,3 +42,16 @@
                 font-weight: 700;
                 padding: 16px 35px;
             }
+            
+            .header {
+                background-color: #FFF8F3;
+            }
+            
+            .banner {
+                padding: 15px 15px 15px 100px;
+                display: flex;
+            }
+            
+            .banner .profile-pic {
+                width: 300px;
+            }
