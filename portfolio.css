@@ -214,5 +214,8 @@ textarea {
 
 .footer-style {
     display: flex;
-    padding: 20px;
+}
+
+footer>div>div {
+    padding: 2%;
 }
